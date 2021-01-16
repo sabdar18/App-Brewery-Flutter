@@ -3,4 +3,4 @@
 Mi_card is single screen application to display details of a person
 
 ## Screenshots:
-![Output](/Screenshots/output.png)
+![Output](/mi_card/Screenshots/output.png)
